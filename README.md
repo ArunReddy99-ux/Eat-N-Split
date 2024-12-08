@@ -1,4 +1,4 @@
-### Split The Bill App 🧾💸
+# Split The Bill App 🧾💸
 This is a React-based bill-splitting application that allows you to manage shared expenses with friends. You can add friends, select a friend, and split bills seamlessly with a user-friendly interface.
 
 # Features 🚀
